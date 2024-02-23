@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
+    "target": "es5",
+    "allowJs": true,
+    "outDir": "./public",
+    "strict": true,
+    "sourceMap": true
+  },
+  "files": ["src/index.ts", "./lib.dom.d.ts"]
+}
